@@ -1,7 +1,5 @@
 Import-Module -Name "$PSScriptRoot\DeployApplications.psm1"
 
-$autostart = $true
-
 #$dataPath = "C:\Users\Alminde\Desktop\GoData"
 $dataPath = "./"
 
